@@ -45,7 +45,12 @@ var person1= PeopleList("Gloria",20,6.5,68)
     println(total)
 
 }
+//4. Given a list similar to the one above, write a function in which you will
+//create 2 more people objects and add them to the list at one go.
 
+fun addlist(topple:List<PeopleList>):List<Any> {
+    return listOf()
+}
 //write a function that takes in a list of car objects each
 // with a registretion and mileage attribute and returns the
 // average mileage of all the vehicles in the list
